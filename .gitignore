@@ -1,0 +1,30 @@
+# Environment Folders
+
+env
+env/
+venv
+venv/
+.env
+.env/
+.venv
+.venv/
+
+# Python Compiled Files
+
+
+*.pyc
+__pycache__/
+.__pycache__/
+
+
+# VSCode Settings
+
+.vscode/
+
+# Static Files
+
+static/
+.static/
+
+# ngrok
+ngrok
